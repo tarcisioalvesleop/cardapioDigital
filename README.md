@@ -1,7 +1,7 @@
 <h1 align="center"> Cardápio Digital </h1>
 
 <div align="center">
-  ![principal](https://github.com/tarcisioalvesleop/cardapioDigital/blob/main/restaurante/src/assets/tela-principal.png)
+  <img src="https://github.com/tarcisioalvesleop/cardapioDigital/blob/main/restaurante/src/assets/tela-principal.png" alt="Principal" >
 </div>
 
 ## 🚀 Sobre o Projeto
